@@ -364,6 +364,12 @@ Prefab:
       propertyPath: cardManager
       value: 
       objectReference: {fileID: 271477467}
+    - target: {fileID: 212397593676902650, guid: 3ba3319a81074dd41a80105f775df512,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 95dc522edb4b3af4baa7bb6c779ac6bd,
+        type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 3ba3319a81074dd41a80105f775df512, type: 2}
   m_IsPrefabParent: 0
@@ -1014,6 +1020,12 @@ Prefab:
       propertyPath: cardManager
       value: 
       objectReference: {fileID: 271477467}
+    - target: {fileID: 212255127662649760, guid: 6d81c2a3273e9db4b88c507c5f6423e6,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: eed24e162e2f0614db2d61ef2179bf47,
+        type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6d81c2a3273e9db4b88c507c5f6423e6, type: 2}
   m_IsPrefabParent: 0
@@ -2222,6 +2234,12 @@ Prefab:
       propertyPath: max_Health
       value: 100
       objectReference: {fileID: 0}
+    - target: {fileID: 212257196909139046, guid: 1a686e2979f07de46a646e97b9bac783,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 8348aedb7a64e6b46b0f3fb7ea6c9059,
+        type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1a686e2979f07de46a646e97b9bac783, type: 2}
   m_IsPrefabParent: 0
@@ -2381,6 +2399,12 @@ Prefab:
       propertyPath: cardManager
       value: 
       objectReference: {fileID: 271477467}
+    - target: {fileID: 212658674584963616, guid: e3c9841a95f87174f887d4cf672cdc18,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 247c218f3b1c03348a9eed52d0b08723,
+        type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e3c9841a95f87174f887d4cf672cdc18, type: 2}
   m_IsPrefabParent: 0

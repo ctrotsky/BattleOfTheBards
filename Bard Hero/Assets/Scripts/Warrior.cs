@@ -42,7 +42,7 @@ public class Warrior : MonoBehaviour {
     //WARRIOR ABILITIES
     public void Attack(float amount, float mod)
     {
-        Boss.Instance.TakeDamage(amount + attackBuff * mod);
+        Boss.Instance.TakeDamage((amount + attackBuff) * mod);
     }
 
     public void Defend(float amount, float mod)

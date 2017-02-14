@@ -52,7 +52,10 @@ public class Mage : MonoBehaviour {
 
     public void Attack(float amount, float mod)
     {
-        Boss.Instance.TakeDamage(amount + attackBuff * mod);
+        
+        Debug.Log("Mage attacking with " + ((amount + attackBuff) * mod));
+        Debug.Log("amount: " + amount + ", mod: " + mod + ", attackBuff " + attackBuff);
+        Boss.Instance.TakeDamage((amount + attackBuff) * mod);
     }
 
 
